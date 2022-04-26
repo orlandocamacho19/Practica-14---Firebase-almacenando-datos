@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284176366423",
+    "project_id": "fir-login-c9631",
+    "storage_bucket": "fir-login-c9631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284176366423:android:f28a7165f6143e6bdc5c12",
+        "android_client_info": {
+          "package_name": "orlando.camacho.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284176366423-bqt4npnmgk770s9ekeep1hqfjo4d8icc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFIeA3CqJnDjUH3AHpKpQO8rP1t1Qv6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284176366423-bqt4npnmgk770s9ekeep1hqfjo4d8icc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
